@@ -1,2 +1,2 @@
-# plexrise
-plexrise_configs
+# zabbix
+zabbix_configs
